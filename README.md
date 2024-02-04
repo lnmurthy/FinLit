@@ -17,4 +17,8 @@ FinLit is developed with the vision to bridge the gap in financial education for
 - **Finance Tools**: Practical tools and calculators for budgeting, debt repayment, and investment planning.
 - **Community Support**: A platform for users to share experiences, tips, and encouragement.
 
+## Acknowledgments
 
+- Khan Academy and Duolingo for inspiration
+- Our dedicated team of developers and educators
+- All contributors and early testers of the app
