@@ -22,3 +22,9 @@ FinLit is developed with the vision to bridge the gap in financial education for
 - Khan Academy and Duolingo for inspiration
 - Our dedicated team of developers and educators
 - All contributors and early testers of the app
+
+## Figma File
+https://www.figma.com/file/B19yJoQtIA1Q0tJwW0mzRS/Learner-Education-app-UI-Kit-(Community)?type=design&node-id=1%3A515&mode=design&t=khQX2p4y0LpGk86j-1
+
+## YouTube Link
+
