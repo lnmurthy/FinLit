@@ -9,7 +9,7 @@ Welcome to FinLit, the financial literacy app designed to make learning about fi
 
 FinLit is developed with the vision to bridge the gap in financial education for individuals across various demographics. Our goal is to equip users with the tools and knowledge needed to make informed financial decisions, fostering financial independence and well-being.
 
-### Features
+## Features
 
 - **Interactive Lessons**: Bite-sized, engaging lessons on a wide range of financial topics.
 - **Personalized Learning Paths**: Tailored content based on users' interests, goals, and current financial knowledge.
