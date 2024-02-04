@@ -27,4 +27,7 @@ FinLit is developed with the vision to bridge the gap in financial education for
 https://www.figma.com/file/B19yJoQtIA1Q0tJwW0mzRS/Learner-Education-app-UI-Kit-(Community)?type=design&node-id=1%3A515&mode=design&t=khQX2p4y0LpGk86j-1
 
 ## YouTube Link
+https://youtu.be/6TZMcML2axY 
 
+## Google Drive 
+https://drive.google.com/file/d/19xNqA66vaSpDknq0ffv0G54yIz-Tw5Rr/view?usp=sharing
