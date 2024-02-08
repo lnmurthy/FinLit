@@ -1,4 +1,4 @@
-# by LAR-Finance for Black Wings Hacks 2024
+### Black Wings Hacks 2024
 members: Leisha Murthy, Rebecca Chery and Adeola Omojola
 # FinLit - Financial Literacy for Everyone 
 ### motto: learn, apply, rise
