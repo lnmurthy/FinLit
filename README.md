@@ -1,9 +1,15 @@
 # by LAR-Finance for Black Wings Hacks 2024
-### members: Leisha Murthy, Rebecca Chery and Adeola Omojola
-# FinLit - Financial Literacy for Everyone
+members: Leisha Murthy, Rebecca Chery and Adeola Omojola
+# FinLit - Financial Literacy for Everyone 
 ### motto: learn, apply, rise
 
-Welcome to FinLit, the financial literacy app designed to make learning about finances accessible, engaging, and practical for everyone. Inspired by the effectiveness of gamified learning in apps like Khan Academy and Duolingo, FinLit aims to empower users with the knowledge to manage their finances confidently, from budgeting and saving to investing and debt management.
+Welcome to FinLit, the financial literacy app designed to make learning about finances accessible, engaging, and practical for everyone. Inspired by the effectiveness of gamified learning in apps like Khan Academy and Duolingo, FinLit aims to empower users with the knowledge to manage their finances confidently, from budgeting and saving to investing and debt management. 
+<img width="381" alt="Screenshot 2024-02-08 at 15 09 11" src="https://github.com/lnmurthy/FinLit/assets/60281490/6cb96a05-2448-4428-bc29-76c02edbcfe5">
+
+<img width="415" alt="Screenshot 2024-02-08 at 15 09 26" src="https://github.com/lnmurthy/FinLit/assets/60281490/ea0539e0-5b1a-45f0-914f-ca8a39daf720">
+<img width="423" alt="Screenshot 2024-02-08 at 15 09 15" src="https://github.com/lnmurthy/FinLit/assets/60281490/9dba8035-54fc-46ed-a82b-8864da30b701">
+<img width="431" alt="Screenshot 2024-02-08 at 15 11 00" src="https://github.com/lnmurthy/FinLit/assets/60281490/e38d1149-0316-4254-96c0-9544ffeeccba">
+
 
 ## About FinLit
 
