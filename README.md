@@ -18,7 +18,7 @@ FinLit is developed with the vision to bridge the gap in financial education for
 - **Community Support**: A platform for users to share experiences, tips, and encouragement.
 
 
-<img width="300" alt="Screenshot 2024-02-08 at 15 09 11" src="https://github.com/lnmurthy/FinLit/assets/60281490/6cb96a05-2448-4428-bc29-76c02edbcfe5"><img width="300" alt="Screenshot 2024-02-08 at 15 09 26" src="https://github.com/lnmurthy/FinLit/assets/60281490/ea0539e0-5b1a-45f0-914f-ca8a39daf720"><img width="400" alt="Screenshot 2024-02-08 at 15 09 15" src="https://github.com/lnmurthy/FinLit/assets/60281490/9dba8035-54fc-46ed-a82b-8864da30b701"><img width="400" alt="Screenshot 2024-02-08 at 15 11 00" src="https://github.com/lnmurthy/FinLit/assets/60281490/e38d1149-0316-4254-96c0-9544ffeeccba">
+<img width="300" alt="Screenshot 2024-02-08 at 15 09 11" src="https://github.com/lnmurthy/FinLit/assets/60281490/6cb96a05-2448-4428-bc29-76c02edbcfe5"><img width="300" alt="Screenshot 2024-02-08 at 15 09 26" src="https://github.com/lnmurthy/FinLit/assets/60281490/ea0539e0-5b1a-45f0-914f-ca8a39daf720"><img width="300" alt="Screenshot 2024-02-08 at 15 09 15" src="https://github.com/lnmurthy/FinLit/assets/60281490/9dba8035-54fc-46ed-a82b-8864da30b701"><img width="200" alt="Screenshot 2024-02-08 at 15 11 00" src="https://github.com/lnmurthy/FinLit/assets/60281490/e38d1149-0316-4254-96c0-9544ffeeccba">
 
 
 ## Acknowledgments
