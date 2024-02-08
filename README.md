@@ -5,10 +5,6 @@ members: Leisha Murthy, Rebecca Chery and Adeola Omojola
 
 Welcome to FinLit, the financial literacy app designed to make learning about finances accessible, engaging, and practical for everyone. Inspired by the effectiveness of gamified learning in apps like Khan Academy and Duolingo, FinLit aims to empower users with the knowledge to manage their finances confidently, from budgeting and saving to investing and debt management. 
 
-
-<img width="381" alt="Screenshot 2024-02-08 at 15 09 11" src="https://github.com/lnmurthy/FinLit/assets/60281490/6cb96a05-2448-4428-bc29-76c02edbcfe5"><img width="415" alt="Screenshot 2024-02-08 at 15 09 26" src="https://github.com/lnmurthy/FinLit/assets/60281490/ea0539e0-5b1a-45f0-914f-ca8a39daf720"><img width="423" alt="Screenshot 2024-02-08 at 15 09 15" src="https://github.com/lnmurthy/FinLit/assets/60281490/9dba8035-54fc-46ed-a82b-8864da30b701"><img width="431" alt="Screenshot 2024-02-08 at 15 11 00" src="https://github.com/lnmurthy/FinLit/assets/60281490/e38d1149-0316-4254-96c0-9544ffeeccba">
-
-
 ## About FinLit
 
 FinLit is developed with the vision to bridge the gap in financial education for individuals across various demographics. Our goal is to equip users with the tools and knowledge needed to make informed financial decisions, fostering financial independence and well-being.
@@ -20,6 +16,10 @@ FinLit is developed with the vision to bridge the gap in financial education for
 - **Gamification Elements**: Motivating users to consistently engage through quizzes, badges, and streaks.
 - **Finance Tools**: Practical tools and calculators for budgeting, debt repayment, and investment planning.
 - **Community Support**: A platform for users to share experiences, tips, and encouragement.
+
+
+<img width="300" alt="Screenshot 2024-02-08 at 15 09 11" src="https://github.com/lnmurthy/FinLit/assets/60281490/6cb96a05-2448-4428-bc29-76c02edbcfe5"><img width="300" alt="Screenshot 2024-02-08 at 15 09 26" src="https://github.com/lnmurthy/FinLit/assets/60281490/ea0539e0-5b1a-45f0-914f-ca8a39daf720"><img width="300" alt="Screenshot 2024-02-08 at 15 09 15" src="https://github.com/lnmurthy/FinLit/assets/60281490/9dba8035-54fc-46ed-a82b-8864da30b701"><img width="300" alt="Screenshot 2024-02-08 at 15 11 00" src="https://github.com/lnmurthy/FinLit/assets/60281490/e38d1149-0316-4254-96c0-9544ffeeccba">
+
 
 ## Acknowledgments
 
