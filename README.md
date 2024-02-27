@@ -1,9 +1,14 @@
 ### Black Wings Hacks 2024
-members: Leisha Murthy, Rebecca Chery and Adeola Omojola
+members: 
+Leisha Murthy: Team Leader, Author
+Rebecca Chery: Quizzes, Front-End
+Adeola Omojola: WireFrame, Front-End 
 # FinLit - Financial Literacy for Everyone 
 ### motto: learn, apply, rise
 
-Welcome to FinLit, the financial literacy app designed to make learning about finances accessible, engaging, and practical for everyone. Inspired by the effectiveness of gamified learning in apps like Khan Academy and Duolingo, FinLit aims to empower users with the knowledge to manage their finances confidently, from budgeting and saving to investing and debt management. 
+Welcome to FinLit, the financial literacy app designed to make learning about finances accessible, engaging, and practical for everyone. Inspired by the effectiveness of gamified learning in apps like Khan Academy and Duolingo, FinLit aims to empower users with the knowledge to manage their finances confidently, from budgeting and saving to investing and debt management.  
+
+
 
 ## About FinLit
 
