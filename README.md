@@ -6,7 +6,9 @@
 members: 
 1. Leisha Murthy: Team Leader, Author
 2. Rebecca Chery: Quizzes, Front-End
-3. Adeola Omojola: WireFrame, Front-End 
+3. Adeola Omojola: WireFrame, Front-End
+
+
 Welcome to FinLit, the financial literacy app designed to make learning about finances accessible, engaging, and practical for everyone. Inspired by the effectiveness of gamified learning in apps like Khan Academy and Duolingo, FinLit aims to empower users with the knowledge to manage their finances confidently, from budgeting and saving to investing and debt management.  
 
 
